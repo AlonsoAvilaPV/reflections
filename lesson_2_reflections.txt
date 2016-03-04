@@ -15,3 +15,9 @@ Branches help to make different version of the same file. Is very usfule because
 How do the diagrams help you visualize the branch structure?
 
 Understanding the structure i learn how the branches and commit work together. 
+
+Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The master branch get the commits of the master branch and ther other branch. To understand how it's works. 
