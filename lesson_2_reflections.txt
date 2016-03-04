@@ -21,3 +21,10 @@ Merging Two Branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The master branch get the commits of the master branch and ther other branch. To understand how it's works. 
+
+Merge
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pors automatic is faster, automatic dosen´t know the final versión at all. 
+
