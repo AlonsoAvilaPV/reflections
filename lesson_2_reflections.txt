@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 It dosen haver any commite. I need to create my first commite. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The stagin area is different because is not a final host for a document, is in the middle. Is very value because we can make changes whitout saving in the finale file.
