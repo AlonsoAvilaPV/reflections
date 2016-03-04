@@ -3,3 +3,11 @@ It dosen haver any commite. I need to create my first commite.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The stagin area is different because is not a final host for a document, is in the middle. Is very value because we can make changes whitout saving in the finale file.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using git stat i can make sure that only one commit pero logical change. 
+
+When to Use Branches
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches help to make different version of the same file. Is very usfule because i don't need to make another file to make it changes. 
