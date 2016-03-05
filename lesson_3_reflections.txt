@@ -8,6 +8,11 @@ Fork is a clone of a github repositoy.
 Clones is a copy to local repositoy for github repository and viseversa.
 Branches are a copy of a local repository.
 
+Manual vs. automatic pull
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+I need to be sure about the changes we do. 
+
 
 Commads:
 cd namefile/ : entrar a una carpeta.
@@ -15,5 +20,3 @@ git remote : See the current remote.
 git remote add name github repositoy URL  : to create a new remote call whit whatever name you want. 
 git remote .v : Verife the remote called origin. 
 git push remote_name branch_name : copy all the commits rechably on my branch_name to remote_name includin the same name.
- 
-
