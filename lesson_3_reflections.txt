@@ -13,10 +13,12 @@ Manual vs. automatic pull
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I need to be sure about the changes we do. 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+That you can return to the latest commit to make changes. s
 
 Commads:
 cd namefile/ : entrar a una carpeta.
 git remote : See the current remote.
 git remote add name github repositoy URL  : to create a new remote call whit whatever name you want. 
-git remote .v : Verife the remote called origin. 
+git remote -v : Verife the remote called origin. 
 git push remote_name branch_name : copy all the commits rechably on my branch_name to remote_name includin the same name.
