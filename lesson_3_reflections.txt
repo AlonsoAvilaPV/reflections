@@ -16,6 +16,10 @@ I need to be sure about the changes we do.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 That you can return to the latest commit to make changes. s
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Using pull request it's very easy because the changes they made i check before merge to master. 
+
+
 Commads:
 cd namefile/ : entrar a una carpeta.
 git remote : See the current remote.
